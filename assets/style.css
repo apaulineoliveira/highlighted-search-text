@@ -13,8 +13,8 @@ body {
 }
 
 .container {
-    width: 20%;
-    background-color: rgb(205, 205, 205);
+    width: 90vmin;
+    background-color: rgb(234, 234, 234);
     padding: 50px 40px;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -46,6 +46,9 @@ body {
     border-radius: 3px;
 }
 
+.wrapper button:hover {
+    background-color: rgb(5, 163, 5);
+}
 .container p {
     line-height: 35px;
     text-align: justify;
