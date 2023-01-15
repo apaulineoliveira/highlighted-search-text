@@ -12,8 +12,7 @@ Texto de pesquisa destacado feito em Javascript.
 <br></br>
 <br></br>
 
-# highlighted-search-text
-Highlighted search text done in Javascript.
+
 <h1>🧵 Purpose</h1>
 <p>The objective of this project was to create a search filter by title search in phrase/text, made in html, css and javascript. </p>
 <p>In the css, fundamental concepts of responsiveness and manipulation with the DOM were applied. The <code>mark</code> tag, which is not a reference to the html, is responsible for being the marker used to underline the words that the system identified in the input search request. Later it was "invoked" in the javascript code. </p>
